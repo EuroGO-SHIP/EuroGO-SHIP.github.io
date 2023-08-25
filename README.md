@@ -3,7 +3,7 @@
 This page is the focal point for code results from the project,
 repositories are listed here:
 
-#### [https://github.com/orgs/EuroGO-SHIP/repositories](https://github.com/orgs/EuroGO-SHIP/repositories)
+#### [https://github.com/EuroGO-SHIP](https://github.com/EuroGO-SHIP)
 
 
 
